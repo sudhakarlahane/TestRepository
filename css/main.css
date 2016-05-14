@@ -1,4 +1,14 @@
-body {
+* {
 	margin: 0px;
 	height: 0px;
+}
+
+body {
+	background: #CCC;
+}
+#main {
+	margin: 0px auto;
+	height: 900px;
+	width: 1200px;
+	background: #FFF;
 }
